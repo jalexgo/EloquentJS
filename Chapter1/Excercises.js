@@ -1,3 +1,4 @@
 //some changes
-console.log("Hey");
+let message = "Hola VSCode";
+console.log(message);
 //new changes
